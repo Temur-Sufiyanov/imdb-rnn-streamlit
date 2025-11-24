@@ -1,4 +1,6 @@
 streamlit==1.28.0
-tensorflow==2.12.0
-keras==2.12.0
 numpy==1.23.5
+keras==2.12.0
+
+# TensorFlow CPU wheel (official lightweight version for cloud)
+https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow_cpu-2.12.0-cp39-cp39-manylinux2014_x86_64.whl
